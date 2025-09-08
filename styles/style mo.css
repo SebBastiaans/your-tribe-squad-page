@@ -1,5 +1,11 @@
 header {
    text-align: center;
+   background-color: #0066cc;
+   color: white;
+   padding: 20px;
+   border-radius: 6px;
+   max-width: 600px;
+   margin: 0 auto;
 }
 .body {
     font-family: sans-serif;
@@ -18,8 +24,8 @@ header {
     margin: 0 auto;
 }
 .grid-container img {
-  width: 100px;
-  height: 100px;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   border: 2px solid transparent;
   transition: border 0.2s;
@@ -30,4 +36,3 @@ header {
         border: 2px solid #007bff;
     }
 
-}
