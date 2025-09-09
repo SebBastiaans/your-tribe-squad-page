@@ -6,6 +6,8 @@ header {
    border-radius: 6px;
    max-width: 600px;
    margin: 0 auto;
+   box-shadow: black;
+
 }
 .body {
     font-family: sans-serif;
@@ -22,6 +24,7 @@ header {
     gap: 10px;
     max-width: 600px;
     margin: 0 auto;
+    box-shadow: 0 10px 30px black;
 }
 .grid-container img {
   width: 100%;
