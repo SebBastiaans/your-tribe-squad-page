@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://sebbastiaans.github.io/your-tribe-squad-page/photos/fdnd.png);
+    background-size: cover; 
+    background-position: center;
+}
+
+/* 
+.article{
+    background: rgb(190, 21, 21);
+    background-color: rgb(168, 50, 50);
+    display: block;
+} */
+
+header{
+background-color: #2986cc;
+max-width: 400px;
+margin: auto;
+color: white;
+font-family: Arial, Helvetica, sans-serif white;
+box-shadow: 0 10px 30px black;
+padding-bottom: 10px;
+height: 100px;
+
+}
+
+/* .page{
+    width: 40em;
+    height: 50em;
+    margin: 1em auto;
+    background: white;
+    box-shadow: 0 0 10px black;
+    padding: 20em;
+    box-sizing: border-box;
+} */
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+    gap: 1px;
+    max-width: 400px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0 10px 30px black;
+    /* margin-left: 125px;
+    margin-top: 0; */
+}
+.grid-container img {
+  width: 98%;
+  height: 98%;
+  object-fit: cover;
+  border: 2px solid transparent;
+  transition: border 0.2s;
+  cursor: pointer;
+}
