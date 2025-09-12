@@ -1,5 +1,5 @@
 body{
-    background-image: url(file:///Users/sbe3/Documents/school/Semester%201/your-tribe-squad-page/photos/fdnd.png);
+    background-image: url(../photos/fdnd.png);
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
@@ -83,6 +83,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr; /* 3 kolommen */
     align-items: center;
+    box-shadow: 0 10px 30px black;
 }
 
 .icons {
