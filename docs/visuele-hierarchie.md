@@ -1,4 +1,4 @@
-# Your Tribe - Squadpage
+# Your Tribe - Squad page
 
 ## Visuele Hiërarchie
 _In de workshop S01W3-01-Visuele-hierarchie wordt uitgelegd wat visuele hiërarchie is en hoe je dit kan toepassen in je ontwerp._
