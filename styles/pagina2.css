@@ -1,0 +1,21 @@
+.verify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+     text-align: center;
+}
+
+.verify img {
+  height: auto;
+  width: 650px;
+}
+.content h1 {
+margin-bottom: 20px;
+font-size: 2rem;
+}
+
+body{
+    background-image: url(../photos/4k-white-background.jpg);
+    background-size: cover;
+}
