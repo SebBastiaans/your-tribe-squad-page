@@ -20,6 +20,7 @@ padding: 4px 10px 4px 10px;
 line-height: 0.5;
 }
 
+/*3x3 kolom met de images*/
 .grid-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -53,6 +54,7 @@ line-height: 0.5;
     height: auto;
 }
 
+/*wat er op popt als je over de images heen hovert*/
 .name {
     position: absolute;
     bottom: 0;
@@ -72,7 +74,7 @@ line-height: 0.5;
     opacity: 1;
 }
 
- 
+ /*footer met icons en button*/
 footer {
     background-color: white;
     max-width: 380px;
@@ -94,9 +96,10 @@ footer {
     cursor: pointer;
 }
 
+/*opmaak knop rechtsonder*/
 .action-button{
     display: flex;
-    justify-content: flex-end; /* knop naar rechterkant*/
+    justify-content: flex-end; 
 }
 
 .button-link {
