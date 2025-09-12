@@ -10,7 +10,7 @@ header {
 }
 body {
     font-family: sans-serif;
-    background-image: url(../photos/4k-white-background.jpg);
+    background-image: url(./photos/4k-white-background.jpg);
     background-size: cover;
     margin: 0;
     padding: 20px;
