@@ -80,7 +80,7 @@ Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen, ga je schetsen en 
 2. Maak gezamenlijk een selectie van de beste ideeën en schets jullie ontwerp op een whiteboard. 
 3. Maak een issue aan bij jullie gezamenlijke _repository_, geef het de titel “Ontwerp squad page” en voeg in reacties jullie schetsen en uiteindelijke ontwerp toe met uitleg. Dit is jullie eerste ontwerp dat jullie gaan proberen te bouwen.
 4. Maak dan met je team een breakdown schets van jullie ontwerp op het whiteboard. Richt je in eerste instantie op de HTML. Kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) welke elementen je kan gebruiken, of [bij de workshop van week 1](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/breakdown-schets.md) als je even niet meer weet hoe je een goede breakdown maakt.
-5. Voeg de breakdown schets toe aan het issue met jullie ontwerp. Tag een docent net als vorige week, en vraag weer om feedback op jullie werk.
+5. Voeg de breakdown schets toe aan het issue met jullie ontwerp. [Tag een docent](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/breakdown-schets.md#:~:text=Tag%20daarna%20in%20het%20issue%20een%20docent%20uit%20jouw%20squad) net als vorige week, en vraag weer om feedback op jullie werk.
 
 ### Bronnen breakdown
 

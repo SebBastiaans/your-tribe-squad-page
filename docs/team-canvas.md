@@ -1,4 +1,4 @@
-# Your Tribe - Squadpage
+# Your Tribe - Squad page
 
 ## Team Canvas (Maandag)
 
@@ -46,7 +46,7 @@ Stel **persoonlijke doelen** op (GOALS): Dit kan gaan over kennis (je wilt iets 
 
 **Regels en Activiteiten** (RULES & ACTIVITIES) Bedenk een aantal regels waar jullie je als team aan gaan houden. Hoe willen jullie communiceren? Hoe vaak gaan jullie samenkomen? Waar gaan jullie werken?
 
-4. Maak een screenshot van jullie ingevulde Team Canvas en maak een een Issue aan in jullie _repository_. Zo kun je af en toe terugkijken wat jullie hebben afgesproken. Tussendoor kun je een _comment_ schrijven als er iets is in de samenwerking dat beter kan of goed gaat, zo vergeet je dat niet. Tijdens de retrospect kunnen jullie evalueren hoe het is gegaan, of jullie je aan de afspraken hebben gehouden en wat je een volgende keer anders kan doen. 
+4. Maak een screenshot van jullie ingevulde Team Canvas en maak een Issue aan in jullie _repository_. Zo kun je af en toe terugkijken naar wat jullie hebben afgesproken. Tussendoor kun je een _comment_ schrijven als er iets is in de samenwerking dat beter kan of goed gaat, zo vergeet je dat niet. Tijdens de retrospect volgende week vrijdag kunnen jullie evalueren hoe het is gegaan, of jullie je aan de afspraken hebben gehouden en wat je een volgende keer anders kan doen. 
 
 
 ##### Bronnen

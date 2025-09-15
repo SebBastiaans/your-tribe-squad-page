@@ -1,0 +1,115 @@
+body{
+    background-image: url(../photos/fdnd.png);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+background-color: #2986cc;
+max-width: 380px;
+margin: auto;
+color: white;
+font-family: Arial, Helvetica, sans-serif white;
+box-shadow: 0 10px 30px black;
+padding: 4px 10px 4px 10px;
+line-height: 0.5;
+}
+
+/*3x3 kolom met de images*/
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+    gap: 1px;
+    max-width: 400px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0 10px 30px black;
+    
+}
+
+.grid-container img {
+  width: 98%;
+  height: 98%;
+  object-fit: cover;
+  border: 2px solid transparent;
+  transition: border 0.2s;
+  cursor: pointer;
+}
+
+.profile {
+    position: relative;
+    width: 98%;
+    height: 98%;
+}
+
+.profile img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/*wat er op popt als je over de images heen hovert*/
+.name {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255,255,255,0.9);
+    color: #2986cc;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile:hover .name {
+    opacity: 1;
+}
+
+ /*footer met icons en button*/
+footer {
+    background-color: white;
+    max-width: 380px;
+    margin: auto;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* 3 kolommen */
+    align-items: center;
+    box-shadow: 0 10px 30px black;
+}
+
+.icons {
+    display: flex;
+    gap: 10px;
+}
+
+.icons img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+/*opmaak knop rechtsonder*/
+.action-button{
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.button-link {
+    background-color: #2986cc;
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    font-family: Arial Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: inline-block;
+}
+
