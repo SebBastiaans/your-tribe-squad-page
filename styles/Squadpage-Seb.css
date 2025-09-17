@@ -1,6 +1,10 @@
 body{
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     background-image: url(../photos/fdnd.png);
+=======
+    background-image: url(file:///Users/sbe3/Documents/school/Semester%201/your-tribe-squad-page/photos/fdnd.png);
+>>>>>>> Stashed changes
 =======
     background-image: url(file:///Users/sbe3/Documents/school/Semester%201/your-tribe-squad-page/photos/fdnd.png);
 >>>>>>> Stashed changes
@@ -16,7 +20,11 @@ body{
 header{
 background-color: #2986cc;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 max-width: 680px;
+=======
+max-width: 380px;
+>>>>>>> Stashed changes
 =======
 max-width: 380px;
 >>>>>>> Stashed changes
@@ -29,7 +37,10 @@ line-height: 0.5;
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /*3x3 grid met de images*/
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 .grid-container{
@@ -66,7 +77,10 @@ line-height: 0.5;
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /*wat er op popt als je over de images heen hovert*/
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 .name {
@@ -89,15 +103,21 @@ line-height: 0.5;
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  /*footer met icons en button*/
 footer {
     background-color: white;
     max-width: 780px;
 =======
+=======
+>>>>>>> Stashed changes
  
 footer {
     background-color: white;
     max-width: 380px;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     margin: auto;
     padding: 10px;
@@ -105,7 +125,10 @@ footer {
     grid-template-columns: 1fr 1fr 1fr; /* 3 kolommen */
     align-items: center;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     box-shadow: 0 10px 30px black;
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 }
@@ -122,10 +145,16 @@ footer {
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /*opmaak knop rechtsonder*/
 .action-button{
     display: flex;
     justify-content: flex-end; 
+=======
+.action-button{
+    display: flex;
+    justify-content: flex-end; /* knop naar rechterkant*/
+>>>>>>> Stashed changes
 =======
 .action-button{
     display: flex;
