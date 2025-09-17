@@ -1,5 +1,9 @@
 body{
+<<<<<<< Updated upstream
     background-image: url(../photos/fdnd.png);
+=======
+    background-image: url(file:///Users/sbe3/Documents/school/Semester%201/your-tribe-squad-page/photos/fdnd.png);
+>>>>>>> Stashed changes
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
@@ -11,7 +15,11 @@ body{
 
 header{
 background-color: #2986cc;
+<<<<<<< Updated upstream
 max-width: 680px;
+=======
+max-width: 380px;
+>>>>>>> Stashed changes
 margin: auto;
 color: white;
 font-family: Arial, Helvetica, sans-serif white;
@@ -20,7 +28,10 @@ padding: 4px 10px 4px 10px;
 line-height: 0.5;
 }
 
+<<<<<<< Updated upstream
 /*3x3 grid met de images*/
+=======
+>>>>>>> Stashed changes
 .grid-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -54,7 +65,10 @@ line-height: 0.5;
     height: auto;
 }
 
+<<<<<<< Updated upstream
 /*wat er op popt als je over de images heen hovert*/
+=======
+>>>>>>> Stashed changes
 .name {
     position: absolute;
     bottom: 0;
@@ -74,16 +88,26 @@ line-height: 0.5;
     opacity: 1;
 }
 
+<<<<<<< Updated upstream
  /*footer met icons en button*/
 footer {
     background-color: white;
     max-width: 780px;
+=======
+ 
+footer {
+    background-color: white;
+    max-width: 380px;
+>>>>>>> Stashed changes
     margin: auto;
     padding: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr; /* 3 kolommen */
     align-items: center;
+<<<<<<< Updated upstream
     box-shadow: 0 10px 30px black;
+=======
+>>>>>>> Stashed changes
 }
 
 .icons {
@@ -97,10 +121,16 @@ footer {
     cursor: pointer;
 }
 
+<<<<<<< Updated upstream
 /*opmaak knop rechtsonder*/
 .action-button{
     display: flex;
     justify-content: flex-end; 
+=======
+.action-button{
+    display: flex;
+    justify-content: flex-end; /* knop naar rechterkant*/
+>>>>>>> Stashed changes
 }
 
 .button-link {
