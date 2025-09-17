@@ -42,5 +42,6 @@ Op de laptop wordt het volledige scherm gevuld door de background image. De body
  - **Seb Bastiaans**, is een newby met code met vooral een gevoel voor de looks en design. Je kunt [hier](https://github.com/SebBastiaans) meer informatie over mij vinden.
  - **Mohamed El Ibrahymy**, 20 jaar oud en wonend in Purmerend.  
    Ik volg de studie **Frontend Design & Development** aan de Hogeschool van Amsterdam.  
-   Ik ben vooral geïnteresseerd in webdesign, gebruiksvriendelijke interfaces en creatieve oplossingen. 
+   Ik ben vooral geïnteresseerd in webdesign, gebruiksvriendelijke interfaces en creatieve oplossingen.
+- **Kate Jadi**, 18 en houdt meer van coderen dan designen. Voor meer informatie over mij kan je [hier](https://kitkatisvibing.github.io/your-tribe-profile-card/) kijken.
 ## bronnen
