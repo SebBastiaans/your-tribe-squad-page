@@ -41,6 +41,7 @@ line-height: 0.5;
   border: 2px solid transparent;
   transition: border 0.2s;
   cursor: pointer;
+  
 }
 
 .profile {
@@ -73,7 +74,9 @@ line-height: 0.5;
 
 .profile:hover .name {
     opacity: 1;
+     transform: scale(1.2); 
 }
+
 
  /*footer met icons en button*/
 footer {
