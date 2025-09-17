@@ -1,7 +1,6 @@
 body{
 
-    background-image: url(file:///Users/sbe3/Documents/school/Semester%201/your-tribe-squad-page/photos/fdnd.png);
-    filter: brightness(70%);
+    background-image: url(../photos/blur.png) ;
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
