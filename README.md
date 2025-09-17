@@ -16,7 +16,6 @@ This project is licensed under the terms of the [MIT license](./LICENSE).
   * [Beschrijving](#beschrijving)
   * [Gebruik](#gebruik)
   * [Team](#team)
-  * [Bronnen](#bronnen)
 
 ## Beschrijving
 Dit project is een creative re-make van een ReCaptcha, waarbij gebruikers mugshots kunnen selecteren van squad-leden, waardoor ze verwijst worden naar hun zelfgemaakte profile-card.
@@ -44,4 +43,4 @@ Op de laptop wordt het volledige scherm gevuld door de background image. De body
    Ik volg de studie **Frontend Design & Development** aan de Hogeschool van Amsterdam.  
    Ik ben vooral geïnteresseerd in webdesign, gebruiksvriendelijke interfaces en creatieve oplossingen.
 - **Kate Jadi**, 18 en houdt meer van coderen dan designen. Voor meer informatie over mij kan je [hier](https://kitkatisvibing.github.io/your-tribe-profile-card/) kijken.
-## bronnen
+
