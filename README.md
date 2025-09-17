@@ -39,6 +39,8 @@ Op de laptop wordt het volledige scherm gevuld door de background image. De body
 <img width="292" height="633" alt="IMG_7903" src="https://github.com/user-attachments/assets/01177e34-2ce3-4ec2-be5d-c38135d47f91" />
 
 ## team
- - Seb, is een newby met code met vooral een gevoel voor de looks en design. Je kunt [hier](https://github.com/SebBastiaans) meer informatie over mij vinden.
-
+ - **Seb Bastiaans**, is een newby met code met vooral een gevoel voor de looks en design. Je kunt [hier](https://github.com/SebBastiaans) meer informatie over mij vinden.
+ - **Mohamed El Ibrahymy**, 20 jaar oud en wonend in Purmerend.  
+   Ik volg de studie **Frontend Design & Development** aan de Hogeschool van Amsterdam.  
+   Ik ben vooral geïnteresseerd in webdesign, gebruiksvriendelijke interfaces en creatieve oplossingen. 
 ## bronnen
