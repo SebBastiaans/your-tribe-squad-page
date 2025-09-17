@@ -1,6 +1,5 @@
 body{
-
-    background-image: url(../photos/blur.png) ;
+    background-image: url(../photos/fdnd.png) ;
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
@@ -74,7 +73,7 @@ line-height: 0.5;
 
 .profile:hover .name {
     opacity: 1;
-     transform: scale(1.2); 
+     transform: scale(1.1); 
 }
 
 
@@ -117,3 +116,7 @@ footer {
     display: inline-block;
 }
 
+article:hover {
+    transition-duration: 1s;
+    filter: blur(8px);
+}
