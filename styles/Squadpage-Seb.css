@@ -3,6 +3,7 @@ body{
     background-image: url(../photos/fdnd.png);
 =======
     background-image: url(file:///Users/sbe3/Documents/school/Semester%201/your-tribe-squad-page/photos/fdnd.png);
+    filter: brightness(70%);
 >>>>>>> Stashed changes
     background-size: cover; 
     background-position: center;
