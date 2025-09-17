@@ -1,6 +1,7 @@
 header{
-    background-color: blue;
-    margin: 0%;
+    background-color: #0066cc;
+    color: white;
+    border-radius: 5px;
 }
 
 main{
@@ -9,6 +10,7 @@ main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 div{
