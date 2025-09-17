@@ -43,7 +43,10 @@ line-height: 0.5;
   cursor: pointer;
   
 }
-
+.grid-container img:hover {
+    border: 2px solid #007bff;
+    transform: scale(1.2); 
+}
 .profile {
     position: relative;
     width: 98%;
@@ -74,7 +77,6 @@ line-height: 0.5;
 
 .profile:hover .name {
     opacity: 1;
-     transform: scale(1.2); 
 }
 
 
