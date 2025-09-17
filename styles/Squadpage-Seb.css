@@ -43,8 +43,8 @@ line-height: 0.5;
   
 }
 .grid-container img:hover {
-    border: 2px solid #007bff;
-    transform: scale(1.2); 
+    border: 0.5px solid #007bff;
+    transform: scale(1.04); 
 }
 .profile {
     position: relative;
@@ -76,10 +76,8 @@ line-height: 0.5;
 
 .profile:hover .name {
     opacity: 1;
-<<<<<<< HEAD
-     transform: scale(1.1); 
-=======
->>>>>>> de76c9ee2c7a3a4fb2c77b8870158596e0ca1437
+     transform: scale(1.2);
+
 }
 
 
@@ -122,7 +120,8 @@ footer {
     display: inline-block;
 }
 
-article:hover {
-    transition-duration: 1s;
-    filter: blur(8px);
+/*blurred de background image*/
+body:has(article:hover) {
+    transition-duration: .3s;
+    backdrop-filter: blur(5px);
 }
